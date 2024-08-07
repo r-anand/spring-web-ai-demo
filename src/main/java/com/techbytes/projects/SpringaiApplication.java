@@ -1,4 +1,4 @@
-package com.tech_bytes.projects;
+package com.techbytes.projects;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
